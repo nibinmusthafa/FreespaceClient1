@@ -1,0 +1,339 @@
+
+:root {
+    --header-height: 3rem;
+    --nav-width: 68px;
+    --first-color: #4723D9;
+    --first-color-light: #ced4da;
+    --white-color: #F7F6FB;
+    --normal-font-size: 1rem;
+    --z-fixed: 100
+}
+
+#body-pd{
+	font-family: 'Poppins', sans-serif;
+	font-weight:400;
+	position: relative;
+    margin: var(--header-height) 0 0 0;
+    padding: 0 1rem;
+    font-family: var(--body-font);
+    font-size: var(--normal-font-size);
+    transition: .5s;
+    background-color: #F8F8F8;
+}
+a:hover{
+	text-decoration: none;
+}
+
+
+.header {
+    width: 100%;
+    height: var(--header-height);
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1rem;
+    /*background-color: var(--white-color);*/
+    z-index: var(--z-fixed);
+    transition: .5s
+}
+
+.header_toggle {
+    color: var(--first-color);
+    font-size: 1.5rem;
+    cursor: pointer
+}
+
+.left-navbar {
+    position: fixed;
+    top: 0;
+    left: -30%;
+    width: var(--nav-width);
+    height: 100vh;
+    padding: .5rem 1rem 0 0;
+    transition: .5s;
+    z-index: var(--z-fixed)
+}
+
+.nav {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden
+}
+
+.nav_logo,
+.nav_link {
+    display: grid;
+    grid-template-columns: max-content max-content;
+    align-items: center;
+    column-gap: 1rem;
+    padding: .5rem 0 .5rem 1.5rem
+}
+
+.nav_logo {
+    margin-bottom: 2rem
+}
+
+.nav_logo-icon {
+    font-size: 1.25rem;
+    color: var(--white-color)
+}
+
+.nav_logo-name {
+    color: var(--white-color);
+    font-weight: 700
+}
+
+.nav_link {
+    position: relative;
+    color: var(--first-color-light);
+    margin-bottom: 1.5rem;
+    transition: .3s
+}
+
+.nav_link:hover {
+    color: var(--white-color)
+}
+
+.nav_icon {
+    font-size: 1.25rem
+}
+
+.left-navbar.show {
+    left: 0
+}
+
+.body-pd {
+    padding-left: calc(var(--nav-width) + 1rem)
+}
+
+.nav_link.active {
+    color: var(--white-color)
+}
+
+.nav_link.active::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    width: 2px;
+    height: 32px;
+    background-color: var(--white-color)
+}
+
+.height-100 {
+    height: 100vh
+}
+
+/*-----------common class start-----------*/
+/*--------------color start----------*/
+.blue-primary{
+	color:#0d6efd;
+}
+.color-purple{
+	color:#6610f2;
+}
+.color-red{
+	color:#dc3545;
+}
+.color-yellow{
+	color:#fd7e14;
+}
+
+.color-green{
+	color:#20c997;
+}
+/*--------------color end----------*/
+/*--------------bg color start--------------*/
+.blue-bg{
+	background-color:#0d6efd;
+}
+.purple-bg{
+	background-color:#6610f2;
+}
+.red-bg{
+	background-color:#dc3545;
+}
+.yellow-bg{
+	background-color:#fd7e14;
+}
+.green-bg{
+	background-color:#20c997;
+}
+
+/*--------------bg color end--------------*/
+
+.btn:hover{
+ color:#fff;
+}
+.btn-blue-primary{
+	color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+.btn-purple{
+	color: #fff;
+    background-color: #6610f2;
+    border-color: #6610f2;
+}
+.btn-red{
+	color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+.btn-yellow{
+	color: #fff;
+    background-color: #fd7e14;
+    border-color: #fd7e14;
+}
+.btn-green{
+	color: #fff;
+    background-color: #20c997;
+    border-color: #20c997;
+}
+
+.icon_size{
+ font-size: 1.25rem;   
+}
+/*-----------common class end-----------*/
+.login_bg_section{
+	background-image: url('../img/login//reg-bg.png');
+    background-color: #fbfbfb;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+    padding: 15px 0;
+}
+
+.login_card{
+	background: #fff;
+    box-shadow: 0 0 35px 0 rgb(154 161 171 / 15%);
+    border-radius: 5px;
+}
+.login_card .card-body{
+      padding: 50px 50px;
+}
+.login_card .card-body .form-control{
+	line-height: 2.2;
+    background: #fff;
+    /* border: 1px solid #f3f3f3; */
+    color: #6e6e6e;
+    border-radius: 1.80rem;
+    height: 56px;
+}
+.login_card .card-body .login_btn{
+ width: 100%;
+ line-height: 2.2;
+  border-radius: 1.80rem;
+    height: 56px;
+}
+
+.form-control:focus{
+	border-color: #ced4da;
+    box-shadow: 0 0 0 0.2rem rgb(0 123 255 / 0%);
+}
+
+
+/*---------------dashboard start---------------*/
+.user_img{
+    width: 40px;
+    height: 40px;
+    border-radius: 1.25rem;
+}
+.nav-menu .navbar-nav{
+    align-items: center;
+}
+.nav-menu .navbar-nav .dropdown-menu{
+ border-radius: 1.25rem;
+}
+.content_box{
+    margin-top:80px;
+}
+/*---------------dashboard end---------------*/
+
+/*@media start*/
+
+@media (min-width: 576px) and (max-width: 767px) {}
+@media (max-width: 767px) {
+.nav-menu .navbar-nav {
+    align-items: center;
+    -ms-flex-direction: row;
+    flex-direction: row;
+}
+.nav-menu .navbar-nav .dropdown-menu {
+    border-radius: 1.25rem;
+    position: absolute;
+}
+.nav-menu .navbar-nav .nav-link{
+    padding-right: .5rem;
+    padding-left: .5rem;
+}
+.header {
+    height:auto;
+}
+}
+
+@media screen and (min-width: 768px) {
+     #body-pd {
+        margin: calc(var(--header-height) + 1rem) 0 0 0;
+        padding-left: calc(var(--nav-width) + 2rem)
+    }
+
+    .header {
+        height: calc(var(--header-height) + 1rem);
+        padding: 0 2rem 0 calc(var(--nav-width) + 2rem)
+    }
+
+    .header_img {
+        width: 40px;
+        height: 40px
+    }
+
+    .header_img img {
+        width: 45px
+    }
+
+    .left-navbar {
+        left: 0;
+        padding: 1rem 1rem 0 0
+    }
+
+    .left-navbar.show {
+        width: calc(var(--nav-width) + 156px)
+    }
+
+    .body-pd {
+        padding-left: calc(var(--nav-width) + 188px)
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {   
+
+    .nav-menu .navbar-nav {
+    align-items: center;
+    -ms-flex-direction: row;
+    flex-direction: row;
+}
+.nav-menu .navbar-nav .dropdown-menu {
+    border-radius: 1.25rem;
+    position: absolute;
+}
+.nav-menu .navbar-nav .nav-link{
+    padding-right: .5rem;
+    padding-left: .5rem;
+}
+}
+
+/*------------------- medium desktop screens -------------------*/
+@media (min-width: 992px) and (max-width: 1199px) {
+      .left-navbar.show {
+        width: calc(var(--nav-width) + 156px)
+    }
+    }
