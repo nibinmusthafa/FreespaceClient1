@@ -19,7 +19,7 @@ user_pref("app.normandy.startupRolloutPrefs.media.peerconnection.mtransport_proc
 user_pref("app.normandy.startupRolloutPrefs.network.process.enabled", true);
 user_pref("app.normandy.user_id", "c24a0469-90ac-46b2-b339-71703cd1f1d7");
 user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1635836231);
-user_pref("app.update.lastUpdateTime.browser-cleanup-thumbnails", 1635911720);
+user_pref("app.update.lastUpdateTime.browser-cleanup-thumbnails", 1635915320);
 user_pref("app.update.lastUpdateTime.recipe-client-addon-run", 1635912080);
 user_pref("app.update.lastUpdateTime.region-update-timer", 1635749951);
 user_pref("app.update.lastUpdateTime.rs-experiment-loader-timer", 1635911840);
@@ -47,8 +47,8 @@ user_pref("browser.pagethumbnails.storage_version", 3);
 user_pref("browser.proton.toolbar.version", 3);
 user_pref("browser.region.update.updated", 1635749082);
 user_pref("browser.rights.3.shown", true);
-user_pref("browser.safebrowsing.provider.google4.lastupdatetime", "1635913502031");
-user_pref("browser.safebrowsing.provider.google4.nextupdatetime", "1635915288031");
+user_pref("browser.safebrowsing.provider.google4.lastupdatetime", "1635915288961");
+user_pref("browser.safebrowsing.provider.google4.nextupdatetime", "1635917098961");
 user_pref("browser.safebrowsing.provider.mozilla.lastupdatetime", "1635911692910");
 user_pref("browser.safebrowsing.provider.mozilla.nextupdatetime", "1635933292910");
 user_pref("browser.search.region", "IN");
@@ -62,6 +62,7 @@ user_pref("browser.uiCustomization.state", "{\"placements\":{\"widget-overflow-f
 user_pref("browser.urlbar.placeholderName", "Google");
 user_pref("browser.urlbar.resultGroups", "{\"children\":[{\"maxResultCount\":1,\"children\":[{\"group\":\"heuristicTest\"},{\"group\":\"heuristicExtension\"},{\"group\":\"heuristicSearchTip\"},{\"group\":\"heuristicOmnibox\"},{\"group\":\"heuristicEngineAlias\"},{\"group\":\"heuristicBookmarkKeyword\"},{\"group\":\"heuristicAutofill\"},{\"group\":\"heuristicPreloaded\"},{\"group\":\"heuristicTokenAliasEngine\"},{\"group\":\"heuristicFallback\"}]},{\"group\":\"extension\",\"availableSpan\":5},{\"flexChildren\":true,\"children\":[{\"children\":[{\"flexChildren\":true,\"children\":[{\"flex\":2,\"group\":\"formHistory\"},{\"flex\":4,\"group\":\"remoteSuggestion\"}]},{\"group\":\"tailSuggestion\"}],\"flex\":2},{\"group\":\"generalParent\",\"children\":[{\"availableSpan\":3,\"group\":\"inputHistory\"},{\"flexChildren\":true,\"children\":[{\"flex\":1,\"group\":\"remoteTab\"},{\"flex\":2,\"group\":\"general\"},{\"flex\":2,\"group\":\"aboutPages\"},{\"flex\":1,\"group\":\"preloaded\"}]},{\"group\":\"inputHistory\"}],\"flex\":1}]}]}");
 user_pref("browser.urlbar.tipShownCount.searchTip_onboard", 4);
+user_pref("browser.urlbar.tipShownCount.searchTip_redirect", 1);
 user_pref("datareporting.policy.dataSubmissionPolicyAcceptedVersion", 2);
 user_pref("datareporting.policy.dataSubmissionPolicyNotifiedTime", "1635749089049");
 user_pref("devtools.debugger.pending-selected-location", "{\"sourceId\":\"source-https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js\",\"line\":6,\"column\":2532,\"sourceUrl\":\"\",\"url\":\"https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js\"}");
