@@ -1,0 +1,13 @@
+2021/11/02-11:06:14.969 8c57 Reusing MANIFEST /home/moonwhite/snap/postman/149/.config/Postman/Partitions/72c075c9-3c35-4186-b5ab-23fd6dcb0ae9/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/11/02-11:06:14.969 8c57 Recovering log #16
+2021/11/02-11:06:14.972 8c57 Reusing old log /home/moonwhite/snap/postman/149/.config/Postman/Partitions/72c075c9-3c35-4186-b5ab-23fd6dcb0ae9/IndexedDB/file__0.indexeddb.leveldb/000016.log 
+2021/11/02-11:06:28.902 8c57 Level-0 table #21: started
+2021/11/02-11:06:28.907 8c57 Level-0 table #21: 220695 bytes OK
+2021/11/02-11:06:28.909 8c57 Delete type=0 #16
+2021/11/02-11:06:28.909 8c57 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/02-11:09:47.670 8c3b Compacting 1@1 + 1@2 files
+2021/11/02-11:09:47.683 8c3b Generated table #22@1: 870 keys, 48042 bytes
+2021/11/02-11:09:47.683 8c3b Compacted 1@1 + 1@2 files => 48042 bytes
+2021/11/02-11:09:47.685 8c3b compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/02-11:09:47.685 8c3b Delete type=2 #18
+2021/11/02-11:09:47.685 8c3b Delete type=2 #21

@@ -1,0 +1,39 @@
+2021/11/01-12:25:20.532 72df Reusing MANIFEST /home/moonwhite/snap/postman/149/.config/Postman/Partitions/6df2b7f9-5a68-41c0-ab97-f31f7c577af6/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/11/01-12:25:20.538 72df Level-0 table #5: started
+2021/11/01-12:25:20.540 72df Level-0 table #5: 494 bytes OK
+2021/11/01-12:25:20.545 72df Delete type=0 #3
+2021/11/01-12:25:20.545 72df Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/01-12:25:20.562 72df Level-0 table #7: started
+2021/11/01-12:25:20.564 72df Level-0 table #7: 476 bytes OK
+2021/11/01-12:25:20.566 72df Delete type=0 #4
+2021/11/01-12:25:20.566 72df Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/01-12:25:20.888 72de Level-0 table #9: started
+2021/11/01-12:25:20.890 72de Level-0 table #9: 32545 bytes OK
+2021/11/01-12:25:20.892 72de Delete type=0 #6
+2021/11/01-12:25:20.892 72df Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 2775 : 1
+2021/11/01-12:25:20.892 72df Compacting 1@0 + 1@1 files
+2021/11/01-12:25:20.894 72df Generated table #10@0: 1496 keys, 15768 bytes
+2021/11/01-12:25:20.894 72df Compacted 1@0 + 1@1 files => 15768 bytes
+2021/11/01-12:25:20.896 72df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/01-12:25:20.896 72df Delete type=2 #9
+2021/11/01-12:25:20.896 72df Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 2775 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/01-12:36:43.070 72de Level-0 table #12: started
+2021/11/01-12:36:43.073 72de Level-0 table #12: 2002 bytes OK
+2021/11/01-12:36:43.075 72de Delete type=2 #7
+2021/11/01-12:36:43.075 72de Delete type=0 #8
+2021/11/01-12:36:43.075 72de Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01\x0b\x00p\x00o\x00s\x00t\x00m\x00a\x00n\x00-\x00a\x00p\x00p' @ 2796 : 1
+2021/11/01-12:36:43.075 72de Compacting 1@0 + 1@1 files
+2021/11/01-12:36:43.078 72de Generated table #13@0: 1526 keys, 16774 bytes
+2021/11/01-12:36:43.078 72de Compacted 1@0 + 1@1 files => 16774 bytes
+2021/11/01-12:36:43.080 72de compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/01-12:36:43.080 72de Delete type=2 #12
+2021/11/01-12:36:43.080 72de Delete type=2 #10
+2021/11/01-12:36:43.080 72de Manual compaction at level-0 from '\x00\x04\x01\x02\x01\x0b\x00p\x00o\x00s\x00t\x00m\x00a\x00n\x00-\x00a\x00p\x00p' @ 2796 : 1 .. (end); will stop at (end)
+2021/11/01-12:36:43.080 72de Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01\x0b\x00p\x00o\x00s\x00t\x00m\x00a\x00n\x00-\x00a\x00p\x00p' @ 2796 : 1
+2021/11/01-12:36:43.080 72de Compacting 1@1 + 1@2 files
+2021/11/01-12:36:43.082 72de Generated table #14@1: 588 keys, 9033 bytes
+2021/11/01-12:36:43.082 72de Compacted 1@1 + 1@2 files => 9033 bytes
+2021/11/01-12:36:43.083 72de compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/01-12:36:43.084 72de Delete type=2 #13
+2021/11/01-12:36:43.084 72de Delete type=2 #5
+2021/11/01-12:36:43.084 72de Manual compaction at level-1 from '\x00\x04\x01\x02\x01\x0b\x00p\x00o\x00s\x00t\x00m\x00a\x00n\x00-\x00a\x00p\x00p' @ 2796 : 1 .. (end); will stop at (end)
