@@ -1,0 +1,209 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/app/admin/designation/designation.component.ts
+> git ls-files --stage -- /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/designation/designation.component.ts
+> git check-ignore -v -z --stdin
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/designation/designation.component.ts
+> git show --textconv :src/app/admin/designation/designation.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git add -A -- /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/angular.json /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/package-lock.json /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/adminnavbar/adminnavbar.component.ts /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/app-routing.module.ts /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/app.module.ts /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/assets/css/style.css /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/index.html /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/admin.service.spec.ts /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/admin.service.ts /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/designation/designation.component.css /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/designation/designation.component.html /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/designation/designation.component.spec.ts /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/designation/designation.component.ts /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/user-management/user-management-datasource.ts /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/user-management/user-management.component.css /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/user-management/user-management.component.html /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/user-management/user-management.component.spec.ts /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/user-management/user-management.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/designation/designation.component.ts
+> git cat-file -s 3697055e298df2ea53479c948936ad0b618a6c8f
+> git show --textconv :src/app/admin/designation/designation.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git push origin master:master
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/Aswathy1577/FreespaceClient.git/'
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/designation/designation.component.ts
+> git cat-file -s 3697055e298df2ea53479c948936ad0b618a6c8f
+> git show --textconv :src/app/admin/designation/designation.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+> git config --get-all user.name
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/authentication.service.ts
+> git ls-files --stage -- /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/authentication.service.ts
+> git cat-file -s 3ed33e03ad0ada30f0bc5d2cdd9113c1e4531882
+> git show --textconv :src/app/authentication.service.spec.ts
+> git ls-files --stage -- /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/authentication.service.spec.ts
+> git cat-file -s 5c9886764d3844aac36dec24bfce539bf480559f
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+> git config --get-all user.name
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/authentication.service.spec.ts
+> git cat-file -s 5c9886764d3844aac36dec24bfce539bf480559f
+> git show --textconv :src/app/authentication.service.spec.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git push origin master
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/Aswathy1577/FreespaceClient.git/'
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/authentication.service.spec.ts
+> git cat-file -s 5c9886764d3844aac36dec24bfce539bf480559f
+> git show --textconv :src/app/authentication.service.spec.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git fetch
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+From https://github.com/Aswathy1577/FreespaceClient
+ * branch            master     -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+> git config --get-all user.name

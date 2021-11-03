@@ -1,0 +1,74 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+fatal: unable to access 'https://github.com/Aswathy1577/FreespaceClient.git/': Could not resolve host: github.com
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/app/admin/admin.service.ts
+> git ls-files --stage -- /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/admin.service.ts
+> git cat-file -s 942c3be9bd2a3563eb79ed5e351d0f99b408079c
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/admin.service.ts
+> git cat-file -s 942c3be9bd2a3563eb79ed5e351d0f99b408079c
+> git show --textconv :src/app/admin/admin.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git fetch
+fatal: unable to access 'https://github.com/Aswathy1577/FreespaceClient.git/': Could not resolve host: github.com
+> git ls-files --stage -- /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/admin.service.ts
+> git cat-file -s 942c3be9bd2a3563eb79ed5e351d0f99b408079c
+> git show --textconv :src/app/admin/admin.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git fetch
+fatal: unable to access 'https://github.com/Aswathy1577/FreespaceClient.git/': Could not resolve host: github.com
+> git show --textconv :src/app/address/address.component.html
+> git ls-files --stage -- /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/address/address.component.html
+> git cat-file -s 1e44f2a17b5e6fdcb671c3b06ae86b824d08f104
+> git ls-files --stage -- /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/address/address.component.html
+> git cat-file -s 1e44f2a17b5e6fdcb671c3b06ae86b824d08f104
+> git show --textconv :src/app/address/address.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/app/admin/createlead/createlead.component.html
+> git ls-files --stage -- /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/createlead/createlead.component.html
+> git show --textconv :src/app/admin/createlead/createlead.component.ts
+> git ls-files --stage -- /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/createlead/createlead.component.ts
+> git show --textconv :src/app/admin/createlead/createlead.component.html
+> git ls-files --stage -- /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/createlead/createlead.component.html
+> git fetch
+fatal: unable to access 'https://github.com/Aswathy1577/FreespaceClient.git/': Could not resolve host: github.com
+> git ls-files --stage -- /home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/src/app/admin/createlead/createlead.component.html
+> git show --textconv :src/app/admin/createlead/createlead.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/moonwhite/MoonwhiteProjects/ClientApplication/FreespaceClient/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template

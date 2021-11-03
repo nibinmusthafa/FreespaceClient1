@@ -1,0 +1,74 @@
+{
+  "Version": "20.04",
+  "OEM": {
+    "Vendor": "LENOVO",
+    "Product": "20TAS0AJ00",
+    "Family": "ThinkPad E14 Gen 2"
+  },
+  "BIOS": {
+    "Vendor": "LENOVO",
+    "Version": "R1EET36W(1.36 )"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "8",
+    "Threads": "2",
+    "Cores": "4",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "140",
+    "Stepping": "1",
+    "Name": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "9a49"
+    }
+  ],
+  "RAM": 7.8,
+  "Partitions": [
+    490.7,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "309mmx174mm",
+      "Resolution": "1920x1080",
+      "Frequency": "60.05"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "en_IN",
+  "Timezone": "Asia/Kolkata",
+  "Install": {
+    "Media": "Ubuntu 20.04.3 LTS \"Focal Fossa\" - Release amd64 (20210819)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": true,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "8": "console_setup",
+      "15": "wireless",
+      "55": "prepare",
+      "64": "partman",
+      "68": "start_install",
+      "82": "timezone",
+      "86": "usersetup",
+      "121": "user_done",
+      "295": "done"
+    }
+  }
+}

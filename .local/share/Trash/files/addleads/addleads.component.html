@@ -1,0 +1,107 @@
+<div>
+<form [formGroup]="addressForm" novalidate (ngSubmit)="onSubmit()">
+  <mat-card class="shipping-card">
+    <mat-card-header>
+      <mat-card-title>Create Lead</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <!-- <div class="row">
+        <div class="col">
+          <mat-form-field class="full-width">
+            <input matInput placeholder="company" formControlName="company">
+          </mat-form-field>
+        </div>
+      </div> -->
+      <div class="row">
+        <div class="col">
+            <mat-form-field appearance="fill">
+              <mat-label>Customer Name</mat-label>
+              <select matNativeControl required>
+                <option value="volvo">Aswathy</option>
+                <option value="saab">Abna</option>
+                <option value="mercedes">Jahana</option>
+                <option value="audi">Anna</option>
+                
+              </select>
+            </mat-form-field>
+          </div>
+          </div>
+          
+            <mat-form-field appearance="fill">
+              <mat-label>Category</mat-label>
+              <select matNativeControl required>
+                <option value="">Aswathy</option>
+                <option value="">Abna</option>
+                <option value="">Jahana</option>
+                <option value="">Anna</option>
+              </select>
+            </mat-form-field>
+      
+  
+        <!-- <div class="col">
+          <mat-form-field class="full-width">
+            <input matInput placeholder="Last name" formControlName="lastName">
+            <mat-error *ngIf="addressForm.controls['lastName'].hasError('required')">
+              Last name is <strong>required</strong>
+            </mat-error>
+          </mat-form-field>
+        </div> -->
+      <div class="row">
+        <div class="col">
+            <label for="form7">Lead Name</label><br>
+         
+          <mat-form-field style="width: 500px;" appearance="fill">
+            <mat-label>Textarea</mat-label>
+            <textarea matInput  rows="5" cols="90"></textarea>
+          </mat-form-field>
+      
+        </div>
+          <div class="col">
+            <mat-form-field appearance="fill">
+              <mat-label>Lead Source</mat-label>
+              <select matNativeControl required>
+                <option value="volvo">Aswathy</option>
+                <option value="saab">Abna</option>
+                <option value="mercedes">Jahana</option>
+                <option value="audi">Anna</option>
+              </select>
+            </mat-form-field>
+          </div>
+      </div>
+      <div class="row">
+        <div class="col">
+            <label for="form7">Description</label><br>
+            <mat-form-field style="width: 500px;" appearance="fill">
+              <mat-label>Textarea</mat-label>
+              <textarea matInput  rows="5" cols="90"></textarea>
+          </mat-form-field>
+        </div>
+      </div>
+
+      <!-- <div class="row" *ngIf="hasUnitNumber">
+        <div class="col">
+          <mat-form-field class="full-width">
+            <textarea matInput placeholder="Address 2" formControlName="address2"></textarea>
+          </mat-form-field>
+        </div>
+      </div> -->
+
+          <label for="form7">Renovation</label><br>
+          <mat-radio-group aria-label="Select an option">
+            <mat-radio-button value="1">Yes</mat-radio-button>
+            <mat-radio-button value="2">No</mat-radio-button>
+          </mat-radio-group>
+        
+       
+      
+
+    </mat-card-content>
+    <mat-card-actions>
+      
+      <button mat-raised-button color="primary" type="submit">Save</button>
+      <button mat-raised-button color="primary" type="submit">Reset</button>
+      <button mat-raised-button color="primary" type="submit">Close</button>
+    </mat-card-actions>
+  </mat-card>
+</form>
+</div>

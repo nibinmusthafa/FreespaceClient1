@@ -1,0 +1,8 @@
+[2021-11-02 21:27:37.812] [renderer1] [info] Starting extension host with pid 2341.
+[2021-11-02 21:27:38.338] [renderer1] [error] [Extension Host] (node:2341) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-11-02 21:27:38.399] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:7068)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-11-02 21:38:47.942] [renderer1] [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.untitledWorkspace
+[2021-11-02 21:38:55.374] [renderer1] [info] [lifecycle]: Shutdown was prevented (id: veto.untitledWorkspace)
