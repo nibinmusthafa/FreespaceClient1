@@ -3,10 +3,16 @@
     "openedPathsList": {
         "entries": [
             {
+                "folderUri": "file:///home/moonwhite/MoonwhiteProjects"
+            },
+            {
                 "folderUri": "file:///home/moonwhite/MoonwhiteProjects/ClientApplication"
             },
             {
-                "folderUri": "file:///home/moonwhite/MoonwhiteProjects"
+                "folderUri": "file:///home/moonwhite/MoonwhiteProjects/PlayGround/client"
+            },
+            {
+                "folderUri": "file:///home/moonwhite/ng-tutorial"
             },
             {
                 "folderUri": "file:///home/moonwhite"
@@ -60,8 +66,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -70,7 +75,18 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/moonwhite/MoonwhiteProjects/ClientApplication",
+                                        "fsPath": "/home/moonwhite/MoonwhiteProjects",
+                                        "external": "file:///home/moonwhite/MoonwhiteProjects",
+                                        "path": "/home/moonwhite/MoonwhiteProjects",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/MoonwhiteProjects"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/moonwhite/MoonwhiteProjects/ClientApplication",
                                         "path": "/home/moonwhite/MoonwhiteProjects/ClientApplication",
                                         "scheme": "file"
@@ -82,12 +98,23 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/moonwhite/MoonwhiteProjects",
-                                        "path": "/home/moonwhite/MoonwhiteProjects",
+                                        "external": "file:///home/moonwhite/MoonwhiteProjects/PlayGround/client",
+                                        "path": "/home/moonwhite/MoonwhiteProjects/PlayGround/client",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/MoonwhiteProjects"
+                                    "label": "~/MoonwhiteProjects/PlayGround/client"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/moonwhite/ng-tutorial",
+                                        "path": "/home/moonwhite/ng-tutorial",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/ng-tutorial"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -1574,21 +1601,21 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 317,
+            "sideBarWidth": 170,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/moonwhite/MoonwhiteProjects/ClientApplication",
-            "backupPath": "/home/moonwhite/.config/Code/Backups/ee4387659401e4acabf7f556bb966a60",
+            "folder": "file:///home/moonwhite/MoonwhiteProjects",
+            "backupPath": "/home/moonwhite/.config/Code/Backups/721ee73a86560582f2b7efbb11439a5e",
             "uiState": {
                 "mode": 0,
-                "x": 72,
-                "y": 64,
-                "width": 1848,
-                "height": 1016
+                "x": 448,
+                "y": 193,
+                "width": 1024,
+                "height": 768
             }
         },
         "openedWindows": []

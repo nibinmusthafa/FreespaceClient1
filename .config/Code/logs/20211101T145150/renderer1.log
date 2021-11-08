@@ -1,9 +1,0 @@
-[2021-11-01 14:51:51.079] [renderer1] [info] Starting extension host with pid 43955.
-[2021-11-01 14:51:51.384] [renderer1] [error] [Extension Host] (node:43955) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `code --trace-deprecation ...` to show where the warning was created)
-[2021-11-01 18:48:44.232] [renderer1] [info] Enabling inspect port on extension host with pid 43955.
-[2021-11-01 18:48:44.715] [renderer1] [info] Enabling inspect port on extension host with pid 43955.
-[2021-11-01 18:49:44.367] [renderer1] [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
-[2021-11-01 18:49:44.476] [renderer1] [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
-[2021-11-01 18:49:44.572] [renderer1] [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
-[2021-11-01 18:49:44.646] [renderer1] [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups

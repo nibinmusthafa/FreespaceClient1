@@ -1,18 +1,20 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="snap-store_ubuntu-software.desktop" score="28" last-seen="1635745409"/>
-    <application id="org.gnome.Nautilus.desktop" score="182" last-seen="1635911562"/>
-    <application id="gnome-initial-setup.desktop" score="3" last-seen="1635824745"/>
-    <application id="firefox.desktop" score="1259" last-seen="1635915405"/>
-    <application id="org.gnome.Terminal.desktop" score="399" last-seen="1635912089"/>
-    <application id="code.desktop" score="4760" last-seen="1635915375"/>
-    <application id="thunderbird.desktop" score="0" last-seen="1635856726"/>
-    <application id="yelp.desktop" score="0" last-seen="1635912097"/>
-    <application id="postman_postman.desktop" score="282" last-seen="1635915232"/>
-    <application id="google-chrome.desktop" score="2562" last-seen="1635915272"/>
-    <application id="update-manager.desktop" score="0" last-seen="1635744408"/>
-    <application id="org.gnome.gedit.desktop" score="2" last-seen="1635766130"/>
+    <application id="libreoffice-writer.desktop" score="98" last-seen="1636142540"/>
+    <application id="org.gnome.Evince.desktop" score="3" last-seen="1636096661"/>
     <application id="org.gnome.FileRoller.desktop" score="0" last-seen="1635750086"/>
+    <application id="google-chrome.desktop" score="12326" last-seen="1636345671"/>
+    <application id="org.gnome.gedit.desktop" score="2" last-seen="1635766130"/>
+    <application id="update-manager.desktop" score="0" last-seen="1635744408"/>
+    <application id="org.gnome.Nautilus.desktop" score="192" last-seen="1636344741"/>
+    <application id="snap-store_ubuntu-software.desktop" score="28" last-seen="1635745409"/>
+    <application id="gnome-initial-setup.desktop" score="3" last-seen="1635824745"/>
+    <application id="firefox.desktop" score="3038" last-seen="1636346015"/>
+    <application id="org.gnome.Terminal.desktop" score="830" last-seen="1636344746"/>
+    <application id="postman_postman.desktop" score="375" last-seen="1636090291"/>
+    <application id="yelp.desktop" score="0" last-seen="1635916389"/>
+    <application id="code.desktop" score="22108" last-seen="1636345724"/>
+    <application id="thunderbird.desktop" score="0" last-seen="1635933156"/>
   </context>
 </application-state>

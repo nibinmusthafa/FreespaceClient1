@@ -688,6 +688,8 @@ html, body { height: 100%; }
 
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
+
+
 /*!******************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].rules[0].oneOf[1].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].rules[0].oneOf[1].use[2]!./src/assets/css/style.css ***!
   \******************************************************************************************************************************************************************************************************************/
@@ -1341,12 +1343,11 @@ thead .sl_mob{
 }
     }
 
-/*# sourceMappingURL=styles.css.map*/ÇŸ@Ÿ
-òD     *a‚'a‚'Cžd¶a‚'   N    O^partitionKey=%28http%2Clocalhost%2C4200%29,:http://localhost:4200/styles.css strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+/*# sourceMappingURL=styles.css.map*/Î µP¾"Ì      Baˆ¨Ëaˆ¨ËC ~¦aˆ¨Ë   N    O^partitionKey=%28http%2Clocalhost%2C4200%29,:http://localhost:4200/styles.css strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
 Content-Type: text/css; charset=UTF-8
-Content-Length: 262444
-ETag: W/"4012c-PzLHorlQTFzR1Z0pPKi/271Zs5M"
-Date: Wed, 03 Nov 2021 04:16:39 GMT
+Content-Length: 262446
+ETag: W/"4012e-cyMm0tQX+I3Md7tZHQ5pVxvvExU"
+Date: Mon, 08 Nov 2021 04:34:19 GMT
 X-Powered-By: Express
 Access-Control-Allow-Origin: *
 Accept-Ranges: bytes
@@ -1354,9 +1355,9 @@ Accept-Ranges: bytes
 Access-Control-Allow-Origin: *
 Accept-Ranges: bytes
 Content-Type: text/css; charset=UTF-8
-Content-Length: 262444
-ETag: W/"4012c-PzLHorlQTFzR1Z0pPKi/271Zs5M"
-Date: Mon, 01 Nov 2021 11:08:41 GMT
+Content-Length: 262446
+ETag: W/"4012e-cyMm0tQX+I3Md7tZHQ5pVxvvExU"
+Date: Mon, 08 Nov 2021 04:13:28 GMT
 Connection: keep-alive
 Keep-Alive: timeout=5
- ctid 5 uncompressed-len 0 necko:classified 1  ,
+ ctid 5 uncompressed-len 0 necko:classified 1  .

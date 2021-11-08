@@ -269,6 +269,46 @@
                 ^
                 
             
+                createlead/
+                
+            
+          </li>
+        
+          <li>
+            
+                ^
+                
+            
+                listlead/
+                
+            
+          </li>
+        
+          <li>
+            
+                ^
+                
+            
+                deletelead/&lt;int:pk&gt;/
+                
+            
+          </li>
+        
+          <li>
+            
+                ^
+                
+            
+                updatelead/&lt;int:pk&gt;/
+                
+            
+          </li>
+        
+          <li>
+            
+                ^
+                
+            
                 addfile/
                 
             
@@ -664,6 +704,16 @@
             
           </li>
         
+          <li>
+            
+                ^
+                
+            
+                catandsubcat/
+                
+            
+          </li>
+        
       </ol>
       <p>
         
@@ -683,21 +733,21 @@
   </div>
 </body>
 </html>
-Z€çU©      aÇàaÇàCó 7       H    O^partitionKey=%28http%2C192.168.1.9%2C8000%29,:http://192.168.1.9:8000/ necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 404 Not Found
-Date: Tue, 02 Nov 2021 11:31:18 GMT
+qÜﬁ„s¿           aÇZkCñï±       H    O^partitionKey=%28http%2C192.168.1.9%2C8000%29,:http://192.168.1.9:8000/ strongly-framed 1 request-method GET response-head HTTP/1.1 404 Not Found
+Date: Wed, 03 Nov 2021 09:46:19 GMT
 Server: WSGIServer/0.2 CPython/3.8.10
 Content-Type: text/html
 Vary: Origin
 X-Frame-Options: DENY
-Content-Length: 12408
+Content-Length: 13233
 X-Content-Type-Options: nosniff
 Referrer-Policy: same-origin
- original-response-headers Date: Tue, 02 Nov 2021 11:31:18 GMT
+ original-response-headers Date: Wed, 03 Nov 2021 09:46:19 GMT
 Server: WSGIServer/0.2 CPython/3.8.10
 Content-Type: text/html
 Vary: Origin
 X-Frame-Options: DENY
-Content-Length: 12408
+Content-Length: 13233
 X-Content-Type-Options: nosniff
 Referrer-Policy: same-origin
- ctid 1 uncompressed-len 0 net-response-time-onstart 294 net-response-time-onstop 323   0x
+ ctid 1 uncompressed-len 0 net-response-time-onstart 58 net-response-time-onstop 89   3±

@@ -1,6 +1,0 @@
-2021/11/01-16:56:12.144 d931 Creating DB /home/moonwhite/.config/google-chrome/Default/IndexedDB/https_embed.plnkr.co_0.indexeddb.leveldb since it was missing.
-2021/11/01-16:56:12.149 d931 Reusing MANIFEST /home/moonwhite/.config/google-chrome/Default/IndexedDB/https_embed.plnkr.co_0.indexeddb.leveldb/MANIFEST-000001
-2021/11/01-16:56:49.590 d8da Level-0 table #5: started
-2021/11/01-16:56:49.592 d8da Level-0 table #5: 1253 bytes OK
-2021/11/01-16:56:49.594 d8da Delete type=0 #3
-2021/11/01-16:56:49.595 d8da Manual compaction at level-0 from (begin) .. (end); will stop at (end)

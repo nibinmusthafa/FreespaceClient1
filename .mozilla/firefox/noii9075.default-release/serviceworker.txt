@@ -11,3 +11,15 @@ true
 0
 true
 #
+
+https://www.youtube.com/
+https://www.youtube.com/sw.js
+false
+{147879fd-239d-4eec-8eda-d21f3e2e5d12}
+0
+1636335750287293
+1636335750291119
+1636335750133407
+0
+true
+#

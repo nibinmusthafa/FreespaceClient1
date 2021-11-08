@@ -2,5 +2,6 @@
     "workbench.startupEditor": "none",
     "git.autofetch": true,
     "editor.fontSize": 20,
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 1
 }

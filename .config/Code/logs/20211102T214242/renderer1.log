@@ -1,6 +1,0 @@
-[2021-11-02 21:42:43.168] [renderer1] [info] Starting extension host with pid 2604.
-[2021-11-02 21:42:43.581] [renderer1] [error] [Extension Host] (node:2604) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `code --trace-deprecation ...` to show where the warning was created)
-[2021-11-02 21:42:43.606] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:7068)
-    at SimpleURLLoaderWrapper.emit (events.js:315:20)
