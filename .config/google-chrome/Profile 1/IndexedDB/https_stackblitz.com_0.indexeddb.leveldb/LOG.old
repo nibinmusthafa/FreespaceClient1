@@ -1,0 +1,6 @@
+2021/11/08-06:45:32.694 33b9 Creating DB /home/moonwhite/.config/google-chrome/Profile 1/IndexedDB/https_stackblitz.com_0.indexeddb.leveldb since it was missing.
+2021/11/08-06:45:32.698 33b9 Reusing MANIFEST /home/moonwhite/.config/google-chrome/Profile 1/IndexedDB/https_stackblitz.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/08-06:46:08.090 35a8 Level-0 table #5: started
+2021/11/08-06:46:08.091 35a8 Level-0 table #5: 847 bytes OK
+2021/11/08-06:46:08.094 35a8 Delete type=0 #3
+2021/11/08-06:46:08.094 35a8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

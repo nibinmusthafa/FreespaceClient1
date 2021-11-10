@@ -1,0 +1,7 @@
+2021/11/08-07:12:06.583 3da0 Reusing MANIFEST /home/moonwhite/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/08-07:12:06.584 3da0 Recovering log #3
+2021/11/08-07:12:06.589 3da0 Reusing old log /home/moonwhite/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2021/11/08-07:12:39.062 3e19 Level-0 table #5: started
+2021/11/08-07:12:39.066 3e19 Level-0 table #5: 387844 bytes OK
+2021/11/08-07:12:39.069 3e19 Delete type=0 #3
+2021/11/08-07:12:39.069 3e19 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

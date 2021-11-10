@@ -1,0 +1,39 @@
+[2021-11-09 18:40:22.516] [exthost] [info] extension host started
+[2021-11-09 18:40:22.516] [exthost] [info] Skipping acquiring lock for /home/moonwhite/.config/Code/User/workspaceStorage/185f27b6d75422de9574e07dbb44ad0a.
+[2021-11-09 18:40:22.704] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-09 18:40:22.705] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-11-09 18:40:22.716] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+[2021-11-09 18:40:22.716] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-11-09 18:40:22.725] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-09 18:40:22.725] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-11-09 18:40:22.729] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-09 18:40:22.729] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-11-09 18:40:22.745] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: true, activationEvent: '*'
+[2021-11-09 18:40:22.745] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/moonwhite/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-11-09 18:40:23.242] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-09 18:40:23.242] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-11-09 18:40:23.278] [exthost] [info] eager extensions activated
+[2021-11-09 18:40:23.327] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-11-09 18:40:23.327] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-11-09 18:40:23.467] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-09 18:40:23.467] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-11-09 18:40:23.477] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-09 18:40:23.477] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-11-09 18:40:23.799] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-09 18:40:23.799] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-11-09 18:40:26.664] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-09 18:40:26.664] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-11-09 18:40:26.667] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-09 18:40:26.667] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-11-09 18:40:35.934] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2021-11-09 18:40:37.018] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2021-11-09 18:40:53.982] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10003
+[2021-11-09 18:41:38.895] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10003
+[2021-11-09 18:42:02.770] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10003
+[2021-11-09 18:43:37.322] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10003
+[2021-11-09 18:46:37.611] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10003
+[2021-11-09 18:49:37.883] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10003
+[2021-11-09 18:52:38.153] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10003
+[2021-11-09 18:55:38.426] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10003
+[2021-11-09 18:58:38.710] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10003
+[2021-11-09 20:10:24.020] [exthost] [info] extension host terminating: renderer closed the socket

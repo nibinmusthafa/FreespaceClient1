@@ -1,0 +1,31 @@
+[2021-11-09 10:29:38.730] [exthost] [info] extension host started
+[2021-11-09 10:29:38.730] [exthost] [info] Skipping acquiring lock for /home/moonwhite/.config/Code/User/workspaceStorage/4896bc5c4b91e8bdab334582e132567e.
+[2021-11-09 10:29:38.775] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-09 10:29:38.776] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-11-09 10:29:38.781] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-09 10:29:38.781] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-11-09 10:29:38.782] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-09 10:29:38.782] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-11-09 10:29:38.792] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: true, activationEvent: '*'
+[2021-11-09 10:29:38.792] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/moonwhite/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-11-09 10:29:38.797] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:manage.py'
+[2021-11-09 10:29:38.798] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/moonwhite/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension
+[2021-11-09 10:29:39.034] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-09 10:29:39.035] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-11-09 10:29:39.046] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-11-09 10:29:39.046] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-11-09 10:29:39.146] [exthost] [info] eager extensions activated
+[2021-11-09 10:29:39.162] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-09 10:29:39.162] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-11-09 10:29:39.167] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-09 10:29:39.167] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-11-09 10:29:39.172] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+[2021-11-09 10:29:39.173] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/moonwhite/.vscode/extensions/ms-python.vscode-pylance-2021.11.0/dist/extension.bundle.js
+[2021-11-09 10:29:39.246] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-09 10:29:39.246] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-11-09 10:29:42.275] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2021-11-09 10:29:43.229] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2021-11-09 10:33:51.535] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10101
+[2021-11-09 13:11:45.629] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 12634
+[2021-11-09 13:40:11.216] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-09 13:40:12.252] [exthost] [info] exiting with code 0

@@ -1,0 +1,18 @@
+Info 2021-11-09 10:24:31: Experimentation service retrieved: [object Object]
+Info 2021-11-09 10:24:31: ZMQ install verified.
+Error 2021-11-09 10:24:32: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file '/home/moonwhite/Downloads/Re__Python_Machine_Test___Lekha___Moonwhite_Technologies/Re_ Python Machine Test | Lekha | Moonwhite Technologies/.vscode/settings.json' (Error: Unable to resolve nonexistent file '/home/moonwhite/Downloads/Re__Python_Machine_Test___Lekha___Moonwhite_Technologies/Re_ Python Machine Test | Lekha | Moonwhite Technologies/.vscode/settings.json')
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163865)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.readFile (/home/moonwhite/.vscode/extensions/ms-toolsai.jupyter-2021.9.1101343141/out/client/extension.js:90:363442)
+	at async g.fixSettingsFile (/home/moonwhite/.vscode/extensions/ms-toolsai.jupyter-2021.9.1101343141/out/client/extension.js:52:320440)
+	at async Promise.all (index 1)
+	at async g.updateSettings (/home/moonwhite/.vscode/extensions/ms-toolsai.jupyter-2021.9.1101343141/out/client/extension.js:52:322160)] {
+  code: 'FileNotFound'
+}
+Info 2021-11-09 10:29:10: Shutting down notebooks for f0d65931-27f8-4c88-92ef-a8a0eeb0567a
+Info 2021-11-09 10:29:10: Disposing HostJupyterExecution 8bd7a19b-25f4-4a68-a6b0-6b13f7a7c7e5
+Info 2021-11-09 10:29:10: Disposing super HostJupyterExecution 8bd7a19b-25f4-4a68-a6b0-6b13f7a7c7e5
+Info 2021-11-09 10:29:10: Disposing HostJupyterExecution 8bd7a19b-25f4-4a68-a6b0-6b13f7a7c7e5
+Info 2021-11-09 10:29:10: Finished disposing HostJupyterExecution  8bd7a19b-25f4-4a68-a6b0-6b13f7a7c7e5
+Info 2021-11-09 10:29:10: Cleaning up server cache 8bd7a19b-25f4-4a68-a6b0-6b13f7a7c7e5
+Info 2021-11-09 10:29:10: Finished disposing HostJupyterExecution  8bd7a19b-25f4-4a68-a6b0-6b13f7a7c7e5

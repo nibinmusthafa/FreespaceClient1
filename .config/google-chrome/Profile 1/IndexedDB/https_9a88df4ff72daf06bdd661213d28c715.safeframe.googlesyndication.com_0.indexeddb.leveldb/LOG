@@ -1,0 +1,6 @@
+2021/11/08-14:15:38.038 4dd0 Creating DB /home/moonwhite/.config/google-chrome/Profile 1/IndexedDB/https_9a88df4ff72daf06bdd661213d28c715.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2021/11/08-14:15:38.045 4dd0 Reusing MANIFEST /home/moonwhite/.config/google-chrome/Profile 1/IndexedDB/https_9a88df4ff72daf06bdd661213d28c715.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/08-14:15:46.659 4e9e Level-0 table #5: started
+2021/11/08-14:15:46.661 4e9e Level-0 table #5: 480 bytes OK
+2021/11/08-14:15:46.663 4e9e Delete type=0 #3
+2021/11/08-14:15:46.663 4e9e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
