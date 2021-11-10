@@ -1,7 +1,13 @@
-2021/11/03-10:23:50.189 2b02 Reusing MANIFEST /home/moonwhite/snap/postman/149/.config/Postman/Partitions/72c075c9-3c35-4186-b5ab-23fd6dcb0ae9/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2021/11/03-10:23:50.189 2b02 Recovering log #20
-2021/11/03-10:23:50.192 2b02 Reusing old log /home/moonwhite/snap/postman/149/.config/Postman/Partitions/72c075c9-3c35-4186-b5ab-23fd6dcb0ae9/IndexedDB/file__0.indexeddb.leveldb/000020.log 
-2021/11/03-10:24:04.221 2b15 Level-0 table #25: started
-2021/11/03-10:24:04.229 2b15 Level-0 table #25: 457835 bytes OK
-2021/11/03-10:24:04.231 2b15 Delete type=0 #20
-2021/11/03-10:24:04.231 2b15 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/09-16:40:30.657 8dce Reusing MANIFEST /home/moonwhite/snap/postman/149/.config/Postman/Partitions/72c075c9-3c35-4186-b5ab-23fd6dcb0ae9/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/11/09-16:40:30.657 8dce Recovering log #52
+2021/11/09-16:40:30.657 8dce Reusing old log /home/moonwhite/snap/postman/149/.config/Postman/Partitions/72c075c9-3c35-4186-b5ab-23fd6dcb0ae9/IndexedDB/file__0.indexeddb.leveldb/000052.log 
+2021/11/09-16:40:38.790 8ddf Level-0 table #57: started
+2021/11/09-16:40:38.792 8ddf Level-0 table #57: 4977 bytes OK
+2021/11/09-16:40:38.794 8ddf Delete type=0 #52
+2021/11/09-16:40:38.794 8ddf Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/09-16:40:55.375 8dce Compacting 1@1 + 1@2 files
+2021/11/09-16:40:55.380 8dce Generated table #58@1: 2207 keys, 180871 bytes
+2021/11/09-16:40:55.380 8dce Compacted 1@1 + 1@2 files => 180871 bytes
+2021/11/09-16:40:55.382 8dce compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/09-16:40:55.382 8dce Delete type=2 #54
+2021/11/09-16:40:55.382 8dce Delete type=2 #57

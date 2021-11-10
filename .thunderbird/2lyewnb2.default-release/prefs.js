@@ -10,11 +10,11 @@
 // - set it within a user.js file in your profile.
 
 user_pref("app.update.lastUpdateTime.addon-background-update-timer", 1635850406);
-user_pref("app.update.lastUpdateTime.search-engine-update-timer", 1635850166);
+user_pref("app.update.lastUpdateTime.search-engine-update-timer", 1635922539);
 user_pref("app.update.lastUpdateTime.services-settings-poll-changes", 1635850286);
 user_pref("app.update.lastUpdateTime.telemetry_modules_ping", 1635850196);
 user_pref("app.update.lastUpdateTime.xpi-signature-verification", 1635850526);
-user_pref("browser.cache.disk.amount_written", 923);
+user_pref("browser.cache.disk.amount_written", 1628);
 user_pref("browser.cache.disk.capacity", 1048576);
 user_pref("browser.cache.disk.filesystem_reported", 1);
 user_pref("calendar.list.sortOrder", "8d0fcd40-8b69-44d7-b6c6-f43be84bb308");
@@ -33,6 +33,7 @@ user_pref("extensions.databaseSchema", 32);
 user_pref("extensions.getAddons.cache.lastUpdate", 1635850407);
 user_pref("extensions.getAddons.databaseSchema", 6);
 user_pref("extensions.incognito.migrated", true);
+user_pref("extensions.lastAppBuildId", "20210802223056");
 user_pref("extensions.lastAppVersion", "78.13.0");
 user_pref("extensions.lastPlatformVersion", "78.13.0");
 user_pref("extensions.pendingOperations", false);

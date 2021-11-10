@@ -6,6 +6,12 @@
                 "folderUri": "file:///home/moonwhite/MoonwhiteProjects"
             },
             {
+                "folderUri": "file:///home/moonwhite/Desktop/customer_prjct"
+            },
+            {
+                "folderUri": "file:///home/moonwhite/Downloads/Re__Python_Machine_Test___Lekha___Moonwhite_Technologies/Re_%20Python%20Machine%20Test%20%7C%20Lekha%20%7C%20Moonwhite%20Technologies"
+            },
+            {
                 "folderUri": "file:///home/moonwhite/MoonwhiteProjects/ClientApplication"
             },
             {
@@ -66,7 +72,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -82,6 +89,28 @@
                                     },
                                     "enabled": true,
                                     "label": "~/MoonwhiteProjects"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/moonwhite/Desktop/customer_prjct",
+                                        "path": "/home/moonwhite/Desktop/customer_prjct",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/customer_prjct"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/moonwhite/Downloads/Re__Python_Machine_Test___Lekha___Moonwhite_Technologies/Re_%20Python%20Machine%20Test%20%7C%20Lekha%20%7C%20Moonwhite%20Technologies",
+                                        "path": "/home/moonwhite/Downloads/Re__Python_Machine_Test___Lekha___Moonwhite_Technologies/Re_ Python Machine Test | Lekha | Moonwhite Technologies",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/Re__Python_Machine_Test___Lekha___Moonwhite_Technologies/Re_ Python Machine Test | Lekha | Moonwhite Technologies"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -703,7 +732,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1601,7 +1631,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 170,
+            "sideBarWidth": 265,
             "statusBarHeight": 22,
             "windowBorder": false
         }
@@ -1612,10 +1642,10 @@
             "backupPath": "/home/moonwhite/.config/Code/Backups/721ee73a86560582f2b7efbb11439a5e",
             "uiState": {
                 "mode": 0,
-                "x": 448,
-                "y": 193,
-                "width": 1024,
-                "height": 768
+                "x": 72,
+                "y": 64,
+                "width": 1848,
+                "height": 1016
             }
         },
         "openedWindows": []

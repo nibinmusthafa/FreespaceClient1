@@ -182,3 +182,46 @@ cd PlayGround/
 cd client/
 ng serve
 code .
+code .
+cd ClientApplication/
+cd FreespaceClient/
+ng serve
+ng serve
+ng serve
+ng serve
+ls
+code .
+ls
+cd /home/moonwhite/MoonwhiteProjects/
+ls
+cd ClientApplication/
+code .
+code .
+ls
+python3 manage.py migrate
+sudo pip3 install virtual
+sudo pip3 install virtual
+sudo pip install virtual
+. my_env_name/bin/activate
+cd ClientApplication/
+ng serve
+cd FreespaceClient/
+ng serve
+ng serve
+ng serve
+ng serve
+ls
+cd FreespaceClient/
+ng serve
+ng serve
+cd ClientApplication/
+cd FreespaceClient/
+ng serve
+code .
+code .
+ping 192.168.1.9
+cd ClientApplication/FreespaceClient/
+ng serve
+ng serve
+ng serve
+code .

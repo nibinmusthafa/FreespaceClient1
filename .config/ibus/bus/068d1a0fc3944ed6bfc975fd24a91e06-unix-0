@@ -3,5 +3,5 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
-IBUS_ADDRESS=unix:abstract=/home/moonwhite/.cache/ibus/dbus-hPCS4n3q,guid=252e4c8c0db906adcdecb5e261889de7
-IBUS_DAEMON_PID=1894
+IBUS_ADDRESS=unix:abstract=/home/moonwhite/.cache/ibus/dbus-oucaSyBi,guid=0e97ac31082c8ccbd84320d7618a732d
+IBUS_DAEMON_PID=1679

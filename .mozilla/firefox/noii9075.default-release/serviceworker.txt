@@ -23,3 +23,15 @@ false
 0
 true
 #
+
+https://angular.io/
+https://angular.io/ngsw-worker.js
+true
+{4ae2f4f8-75eb-4d39-988a-abec9894bd7f}
+0
+1636375730753807
+1636375730761715
+1636375730730082
+0
+true
+#
