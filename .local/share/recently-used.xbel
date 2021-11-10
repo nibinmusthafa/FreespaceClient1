@@ -128,4 +128,17 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/moonwhite/Pictures/Webcam/2021-11-10-100733.jpg" added="2021-11-10T04:37:48Z" modified="2021-11-10T04:37:48Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2021-11-10T04:37:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

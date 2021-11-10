@@ -1,19 +1,21 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Evince.desktop" score="1.5" last-seen="1636096661"/>
-    <application id="snap-store_ubuntu-software.desktop" score="14" last-seen="1636377304"/>
-    <application id="org.gnome.Nautilus.desktop" score="126.5" last-seen="1636448788"/>
-    <application id="org.gnome.Shell.PortalHelper.desktop" score="117" last-seen="1636455666"/>
-    <application id="google-chrome.desktop" score="7516" last-seen="1636462560"/>
     <application id="libreoffice-writer.desktop" score="49" last-seen="1636142540"/>
-    <application id="firefox.desktop" score="3586.5" last-seen="1636462574"/>
-    <application id="org.gnome.Terminal.desktop" score="420" last-seen="1636461313"/>
-    <application id="gnome-initial-setup.desktop" score="1.5" last-seen="1635824745"/>
-    <application id="yelp.desktop" score="0" last-seen="1636445364"/>
+    <application id="org.gnome.Evince.desktop" score="1.5" last-seen="1636096661"/>
+    <application id="google-chrome.desktop" score="7531" last-seen="1636467928"/>
+    <application id="org.gnome.Cheese.desktop" score="15" last-seen="1636519089"/>
+    <application id="org.gnome.Shell.PortalHelper.desktop" score="117" last-seen="1636455666"/>
     <application id="update-manager.desktop" score="0" last-seen="1636389218"/>
-    <application id="code.desktop" score="16329" last-seen="1636462558"/>
-    <application id="postman_postman.desktop" score="861" last-seen="1636461450"/>
+    <application id="org.gnome.Nautilus.desktop" score="126.5" last-seen="1636518837"/>
+    <application id="org.gnome.eog.desktop" score="0" last-seen="1636519072"/>
+    <application id="snap-store_ubuntu-software.desktop" score="14" last-seen="1636377304"/>
+    <application id="shotwell.desktop" score="2" last-seen="1636518830"/>
+    <application id="firefox.desktop" score="3982.5" last-seen="1636524241"/>
+    <application id="org.gnome.Terminal.desktop" score="443" last-seen="1636518842"/>
+    <application id="postman_postman.desktop" score="953" last-seen="1636522552"/>
     <application id="thunderbird.desktop" score="0" last-seen="1635933156"/>
+    <application id="code.desktop" score="17108" last-seen="1636524119"/>
+    <application id="yelp.desktop" score="0" last-seen="1636445364"/>
   </context>
 </application-state>

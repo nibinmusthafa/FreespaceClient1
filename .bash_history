@@ -225,3 +225,11 @@ ng serve
 ng serve
 ng serve
 code .
+code .
+ls
+cd /home/moonwhite/
+ls
+cd MoonwhiteProjects/
+ls
+cd ClientApplication/
+code .

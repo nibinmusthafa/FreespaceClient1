@@ -6,13 +6,13 @@
                 "folderUri": "file:///home/moonwhite/MoonwhiteProjects"
             },
             {
+                "folderUri": "file:///home/moonwhite/MoonwhiteProjects/ClientApplication"
+            },
+            {
                 "folderUri": "file:///home/moonwhite/Desktop/customer_prjct"
             },
             {
                 "folderUri": "file:///home/moonwhite/Downloads/Re__Python_Machine_Test___Lekha___Moonwhite_Technologies/Re_%20Python%20Machine%20Test%20%7C%20Lekha%20%7C%20Moonwhite%20Technologies"
-            },
-            {
-                "folderUri": "file:///home/moonwhite/MoonwhiteProjects/ClientApplication"
             },
             {
                 "folderUri": "file:///home/moonwhite/MoonwhiteProjects/PlayGround/client"
@@ -94,6 +94,17 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/moonwhite/MoonwhiteProjects/ClientApplication",
+                                        "path": "/home/moonwhite/MoonwhiteProjects/ClientApplication",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/MoonwhiteProjects/ClientApplication"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/moonwhite/Desktop/customer_prjct",
                                         "path": "/home/moonwhite/Desktop/customer_prjct",
                                         "scheme": "file"
@@ -111,17 +122,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Downloads/Re__Python_Machine_Test___Lekha___Moonwhite_Technologies/Re_ Python Machine Test | Lekha | Moonwhite Technologies"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/moonwhite/MoonwhiteProjects/ClientApplication",
-                                        "path": "/home/moonwhite/MoonwhiteProjects/ClientApplication",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/MoonwhiteProjects/ClientApplication"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -732,8 +732,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1631,7 +1630,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 265,
+            "sideBarWidth": 359,
             "statusBarHeight": 22,
             "windowBorder": false
         }
