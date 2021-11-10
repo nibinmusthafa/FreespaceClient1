@@ -11,11 +11,11 @@
     <application id="org.gnome.eog.desktop" score="0" last-seen="1636519072"/>
     <application id="snap-store_ubuntu-software.desktop" score="14" last-seen="1636377304"/>
     <application id="shotwell.desktop" score="2" last-seen="1636518830"/>
-    <application id="firefox.desktop" score="3982.5" last-seen="1636524241"/>
+    <application id="firefox.desktop" score="4047.5" last-seen="1636526493"/>
     <application id="org.gnome.Terminal.desktop" score="443" last-seen="1636518842"/>
-    <application id="postman_postman.desktop" score="953" last-seen="1636522552"/>
+    <application id="postman_postman.desktop" score="953" last-seen="1636525634"/>
     <application id="thunderbird.desktop" score="0" last-seen="1635933156"/>
-    <application id="code.desktop" score="17108" last-seen="1636524119"/>
+    <application id="code.desktop" score="17360" last-seen="1636526532"/>
     <application id="yelp.desktop" score="0" last-seen="1636445364"/>
   </context>
 </application-state>
